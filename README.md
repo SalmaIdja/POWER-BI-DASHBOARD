@@ -64,3 +64,5 @@ Reorder rate of 0.59 shows strong customer loyalty
 Most orders placed between 10 AM and 4 PM, peaking midday
 Produce department accounts for nearly 30% of all products sold
 
+![Instacart Dashboard](image.png)
+
